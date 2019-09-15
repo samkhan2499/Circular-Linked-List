@@ -111,7 +111,7 @@ int main()
       
   default:
       cout<<"Wrong choice";
-  }
-  }
+  }  //End of switch
+  }  //End of while
   return 0;
-}
+}  //End of main
